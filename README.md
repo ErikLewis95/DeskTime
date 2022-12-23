@@ -80,8 +80,8 @@ At DeskTime, we’re committed to accountability, transparency, and fairness. De
 
 
 contribute by 
-### Naresh Rajput
+### Erik Lewis
 
 ### Deploy Link
 
-Netlify : https://630b34acf80c1f2745140234--desktime-project-nmewada01.netlify.app/
+Netlify : 
